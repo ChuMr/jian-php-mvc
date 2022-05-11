@@ -11,6 +11,9 @@ define('APP_PATH',__DIR__.'/');
 //基础类
 require APP_PATH . 'core/Base.php';
 
+/*
+ * git test 
+ */
 
 //$app = new \core\App();
 //$app::run();
